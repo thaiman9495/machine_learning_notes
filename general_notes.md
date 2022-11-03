@@ -1,1 +1,0 @@
-# This project is my notes on machine learning
